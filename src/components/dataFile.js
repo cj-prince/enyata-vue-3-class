@@ -1,7 +1,7 @@
 export const intialData = [
   { id: Math.random(),
     name:'Google.com', 
-  description:'search for anything you want',
+  description:'Search for anything you want',
   vote:3
   },
   {id: Math.random(),

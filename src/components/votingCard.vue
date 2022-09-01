@@ -38,7 +38,6 @@ export default {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 20px;
   padding: 12px 20px;
   box-sizing: border-box; 
   width: 641px;
@@ -46,7 +45,7 @@ export default {
   background: #FFFFFF;
   border: 3px solid #9ba89f;
   border-radius: 8px;
-  margin-top:20px
+  margin:20px auto 20px
 }
 .score-div{
   display: flex;
